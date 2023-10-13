@@ -15,7 +15,7 @@ Certifique-se que o ambiente Java Spring Boot + Maven esteja previamente instala
 
 ## Exemplo de rota
 
-A collection thunder-client com as rotas completas pode ser consultada clicando <a href="./thunder-collection_todolis.json">aqui</a>.
+A collection thunder-client com as rotas completas pode ser consultada clicando <a href="./thunder-collection_todolist.json">aqui</a>.
 
 ~~~ bash
 POST - http://localhost:8080/users/
