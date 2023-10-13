@@ -1,6 +1,5 @@
 # Aplicação backend todolist com Java Spring Boot
-Exemplificação back-end para CRUD desenvolvido com Node.js e várias outras tecnologias/ferramentas.
-
+Exemplificação backend com Java Spring Boot e várias outras tecnologias e dependencias.
 
 ## Tecnologias & Dependências
 - [Java Spring Boot](https://spring.io/projects/spring-boot)
